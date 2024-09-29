@@ -172,3 +172,4 @@ cython_debug/
 # No ignorar el contenido de esas carpetas
 !P1/source/*
 !P1/data/*
+!P1/doc/*
